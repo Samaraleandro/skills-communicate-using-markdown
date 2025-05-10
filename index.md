@@ -10,3 +10,8 @@ def saudacao(nome):
 
 print(saudacao("Maria"))
 ```
+- [x] Escrever documentação
+- [ ] Corrigir bugs
+- [ ] Adicionar novos testes
+  - [ ] Testar login
+  - [ ] Testar cadastro
